@@ -7,6 +7,5 @@ url = f'https://api.agify.io/?name={name}'
 response = requests.get(url).json()
 
 age = response['age']
-
 # ~~의 나이는 ~~살 입니다. 라는 문자를 출력
 print(f'{name}의 나이는 {age}살 입니다.')
