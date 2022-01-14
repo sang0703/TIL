@@ -18,7 +18,7 @@ $ git branch {brnach name}
 # 병합된 (수정내역을 합치고 난 후에 삭제 가능)
 $ git branch -d {branch name} 
 # (주의) 병합되지 않은 브랜치 강제 삭제
-$ git branch -D {branch name}
+$ git branch -D {branch name} 
 
 ```
 
