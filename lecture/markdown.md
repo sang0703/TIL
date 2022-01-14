@@ -41,7 +41,7 @@
 -> 만약 Heading1 로 변경하고 싶다면? `ctrl + 1`
 
 1. 제목 (Heading)
-2. h1~h6
+2. h1~h6 
 
 
 
